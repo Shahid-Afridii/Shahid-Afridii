@@ -56,4 +56,4 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 </p>
 
 <br>
-![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+
