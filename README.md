@@ -56,4 +56,17 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 </p>
 
 <br>
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Shahid-Afridii&theme=redical">
+</p> 
+<hr>
+<br />
+<p align="left">
+    <a href="https://Shahid-Afridiidev/">
+        <img width="49.5%"
+            src="https://github-readme-stats.vercel.app/api?username=Shahid-Afridii&show_icons=true&theme=nightowl&hide_border=true" />
+        <img width="49.5%"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=Shahid-Afridii&theme=nightowl&hide_border=true" />
+    </a>
+</p>
 
