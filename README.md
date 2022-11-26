@@ -42,7 +42,6 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/visual%20studio%20code-22272D?style=for-the-badge&logo=visual-studio-code&logoColor=42A2E9&labelColor=22272D">
-  <img src="https://img.shields.io/badge/docker-22272D?style=for-the-badge&logo=docker&labelColor=22272D">
   <img src="https://img.shields.io/badge/npm-22272D?style=for-the-badge&logo=npm&labelColor=22272D">
   <img src="https://img.shields.io/badge/postman-22272D?style=for-the-badge&logo=postman&labelColor=22272D">
 
@@ -57,3 +56,4 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 </p>
 
 <br>
+![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
